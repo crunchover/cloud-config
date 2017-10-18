@@ -1,0 +1,2 @@
+# cloud-config
+configuracion cloud
